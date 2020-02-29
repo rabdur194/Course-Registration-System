@@ -1,0 +1,51 @@
+body
+{
+	font-family: Century Gothic;
+	padding: 0px;
+	margin: 10px;
+	background-color: #F4F4F4;
+}
+
+h1
+{
+	width: auto;
+	color: maroon;
+	margin-left: 20px
+}
+p{
+	display: block;
+	margin:auto;
+	text-align: left;
+	padding: 20px;
+	font-weight: bold;
+	font-size: 22px;
+}
+.lines
+{
+	margin-left: 20px;
+	text-decoration: none;
+}
+a
+{
+	text-decoration: none;
+	color: maroon;
+	font-weight: bold;
+}
+.titleTag
+{
+	margin-left: 20px;
+	font-weight: bold;
+}
+.box
+{
+	color:maroon;
+	size:50%;
+}
+.footer
+{
+	margin-left: 20px;
+}
+.broad
+{
+	margin-left: 20px;
+}
